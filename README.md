@@ -1,6 +1,4 @@
-# AppProject
-carsapp
-#Simple REST API:
+Simple REST API:
 
 a basic car makes and models database interacting with an external API.
 Here's a full specification of endpoints:
@@ -35,12 +33,12 @@ GET /popular
 
     - Should return top cars already present in the database ranking based on a number of rates (not average rate values).
 
-##Documentation
+Documentation
 - Django, 
 - Django REST framework,
 - Json.
 
-##Requirements and setup
+Requirements and setup
 - Python 3.9, 
 - PyCharm 2021.2.2, 
 - Django 4.0, 
